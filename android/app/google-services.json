@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670602358810",
+    "project_id": "a25b1bc3417c3f1e8515d7",
+    "storage_bucket": "a25b1bc3417c3f1e8515d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670602358810:android:05699a477ace907506a1a3",
+        "android_client_info": {
+          "package_name": "com.lazariveiculos.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmn5dBH2CFI49RhJoBNigT87xDWNnd7m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
